@@ -1,0 +1,6 @@
+"RAT" ICON "rat.ico" // 32bpp_8a_0p colors swapped
+"red_1bpp_1a_2p" ICON "red_1bpp_1a_2p.ico" // black
+"red_4bpp_1a_16p" ICON "red_4bpp_1a_16p.ico"// red
+"red_8bpp_1a_256p" ICON "red_8bpp_1a_256p.ico" // black
+"red_24bpp_1a_0p" ICON "red_24bpp_1a_0p.ico" // red
+"red_32bpp_8a_0p" ICON "red_32bpp_8a_0p.ico" // blue
