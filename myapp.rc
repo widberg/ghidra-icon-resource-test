@@ -1,6 +1,43 @@
-"RAT" ICON "rat.ico" // 32bpp_8a_0p colors swapped
-"red_1bpp_1a_2p" ICON "red_1bpp_1a_2p.ico" // black
-"red_4bpp_1a_16p" ICON "red_4bpp_1a_16p.ico"// red
-"red_8bpp_1a_256p" ICON "red_8bpp_1a_256p.ico" // black
-"red_24bpp_1a_0p" ICON "red_24bpp_1a_0p.ico" // red
-"red_32bpp_8a_0p" ICON "red_32bpp_8a_0p.ico" // blue
+"rat_1bpp_1a_2p" ICON "rat_1bpp_1a_2p.ico"
+"rat_1bpp_1a_2p_c" ICON "rat_1bpp_1a_2p_c.ico"
+"rat_4bpp_1a_16p" ICON "rat_4bpp_1a_16p.ico"
+"rat_4bpp_1a_16p_c" ICON "rat_4bpp_1a_16p_c.ico"
+"rat_8bpp_1a_256p" ICON "rat_8bpp_1a_256p.ico"
+"rat_8bpp_1a_256p_c" ICON "rat_8bpp_1a_256p_c.ico"
+"rat_24bpp_1a_0p" ICON "rat_24bpp_1a_0p.ico"
+"rat_24bpp_1a_0p_c" ICON "rat_24bpp_1a_0p_c.ico"
+"rat_32bpp_8a_0p" ICON "rat_32bpp_8a_0p.ico"
+"rat_32bpp_8a_0p_c" ICON "rat_32bpp_8a_0p_c.ico"
+
+"red_1bpp_1a_2p" ICON "red_1bpp_1a_2p.ico"
+"red_1bpp_1a_2p_c" ICON "red_1bpp_1a_2p_c.ico"
+"red_4bpp_1a_16p" ICON "red_4bpp_1a_16p.ico"
+"red_4bpp_1a_16p_c" ICON "red_4bpp_1a_16p_c.ico"
+"red_8bpp_1a_256p" ICON "red_8bpp_1a_256p.ico"
+"red_8bpp_1a_256p_c" ICON "red_8bpp_1a_256p_c.ico"
+"red_24bpp_1a_0p" ICON "red_24bpp_1a_0p.ico"
+"red_24bpp_1a_0p_c" ICON "red_24bpp_1a_0p_c.ico"
+"red_32bpp_8a_0p" ICON "red_32bpp_8a_0p.ico"
+"red_32bpp_8a_0p_c" ICON "red_32bpp_8a_0p_c.ico"
+
+"green_1bpp_1a_2p" ICON "green_1bpp_1a_2p.ico"
+"green_1bpp_1a_2p_c" ICON "green_1bpp_1a_2p_c.ico"
+"green_4bpp_1a_16p" ICON "green_4bpp_1a_16p.ico"
+"green_4bpp_1a_16p_c" ICON "green_4bpp_1a_16p_c.ico"
+"green_8bpp_1a_256p" ICON "green_8bpp_1a_256p.ico"
+"green_8bpp_1a_256p_c" ICON "green_8bpp_1a_256p_c.ico"
+"green_24bpp_1a_0p" ICON "green_24bpp_1a_0p.ico"
+"green_24bpp_1a_0p_c" ICON "green_24bpp_1a_0p_c.ico"
+"green_32bpp_8a_0p" ICON "green_32bpp_8a_0p.ico"
+"green_32bpp_8a_0p_c" ICON "green_32bpp_8a_0p_c.ico"
+
+"blue_1bpp_1a_2p" ICON "blue_1bpp_1a_2p.ico"
+"blue_1bpp_1a_2p_c" ICON "blue_1bpp_1a_2p_c.ico"
+"blue_4bpp_1a_16p" ICON "blue_4bpp_1a_16p.ico"
+"blue_4bpp_1a_16p_c" ICON "blue_4bpp_1a_16p_c.ico"
+"blue_8bpp_1a_256p" ICON "blue_8bpp_1a_256p.ico"
+"blue_8bpp_1a_256p_c" ICON "blue_8bpp_1a_256p_c.ico"
+"blue_24bpp_1a_0p" ICON "blue_24bpp_1a_0p.ico"
+"blue_24bpp_1a_0p_c" ICON "blue_24bpp_1a_0p_c.ico"
+"blue_32bpp_8a_0p" ICON "blue_32bpp_8a_0p.ico"
+"blue_32bpp_8a_0p_c" ICON "blue_32bpp_8a_0p_c.ico"
